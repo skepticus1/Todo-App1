@@ -1,6 +1,6 @@
 import json
 
-with open("app1/exercises/files/questions.json", 'r') as file:
+with open("exercises/day15/files/questions.json", 'r') as file:
     content = file.read()
 
 #print(type(content))
