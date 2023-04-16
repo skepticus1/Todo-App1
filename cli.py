@@ -1,4 +1,4 @@
-from functions import get_todos, write_todos
+from modules.functions import get_todos, write_todos
 import time
 
 date = time.strftime("%A, %d %b %Y %H:%M")
